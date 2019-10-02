@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PathFindVisualizer/static/css/main.3ac294c9.chunk.css",
+    "main.js": "/PathFindVisualizer/static/js/main.57faf597.chunk.js",
+    "main.js.map": "/PathFindVisualizer/static/js/main.57faf597.chunk.js.map",
+    "runtime~main.js": "/PathFindVisualizer/static/js/runtime~main.74328123.js",
+    "runtime~main.js.map": "/PathFindVisualizer/static/js/runtime~main.74328123.js.map",
+    "static/js/2.8a559df7.chunk.js": "/PathFindVisualizer/static/js/2.8a559df7.chunk.js",
+    "static/js/2.8a559df7.chunk.js.map": "/PathFindVisualizer/static/js/2.8a559df7.chunk.js.map",
+    "index.html": "/PathFindVisualizer/index.html",
+    "precache-manifest.25571485ac21883e758db3cebef34f14.js": "/PathFindVisualizer/precache-manifest.25571485ac21883e758db3cebef34f14.js",
+    "service-worker.js": "/PathFindVisualizer/service-worker.js",
+    "static/css/main.3ac294c9.chunk.css.map": "/PathFindVisualizer/static/css/main.3ac294c9.chunk.css.map"
+  }
+}
