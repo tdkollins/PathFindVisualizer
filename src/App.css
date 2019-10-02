@@ -1,0 +1,23 @@
+* {
+  /*margin: 0;
+  padding: 0;
+  box-sizing: border-box;*/
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background: #cdcdcd;
+}
+
+#page_container {
+  background: #cdcdcd;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+Canvas {
+  position: absolute;
+}
